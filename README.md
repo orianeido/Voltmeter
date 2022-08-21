@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=emYsqfDJWus
 - TM1637Display.h 1.2.0 [Link to library](https://github.com/avishorp/TM1637 "Link to library")
 - TM1651.h 1.0.1 [Link to library](https://github.com/freekode/TM1651 "Link to library")
 
-### Photos
+### More Photos
 
 ![IMG_1121](https://user-images.githubusercontent.com/8725819/185801219-0e97f4f7-027e-4688-9b36-0508fee9ea29.jpg)
 
