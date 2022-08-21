@@ -25,8 +25,10 @@ Hope you find it nice and useful, enjoy!
 ![Voltemeter_bb](https://user-images.githubusercontent.com/8725819/177581220-f39f45c1-a79d-4c18-978d-5488b2d3ee23.png)
 
 
-
 ### Software
+
+- Arduino IDE 1.8.19 [Link to download](https://www.arduino.cc/en/software "Link to download")
+- Fritzing 0.9.10 [Link to download](https://fritzing.org/download/ "Link to download")
 
 
 ### Libraries
