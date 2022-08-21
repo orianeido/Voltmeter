@@ -41,6 +41,5 @@ Hope you find it nice and useful, enjoy!
 
 ![_DSC3580](https://user-images.githubusercontent.com/8725819/185801298-d7df02eb-8845-41c3-9378-20d72a323c91.jpg)
 
-![_DSC3580](https://user-images.githubusercontent.com/8725819/185801297-032ccb60-4bc2-4a80-9659-f8c764666fca.jpg)
-
+![_DSC3568](https://user-images.githubusercontent.com/8725819/185801340-e52ccfac-6451-4799-93b8-55ba6ad32996.jpg)
 
