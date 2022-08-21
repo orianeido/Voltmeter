@@ -16,7 +16,7 @@ Hope you find it nice and useful, enjoy!
 - DC Input [Link](https://www.aliexpress.com/item/32809424313.html?spm=a2g0o.order_detail.0.0.66f0f19cluXk6P "Link")
 - Voltage Sensor [Link](https://www.aliexpress.com/item/1972344997.html?spm=a2g0o.order_detail.0.0.2ce7f19cah4r4Z "Link")
 - 2 Buttons (ON/OFF and Select)
-- Measuring Probes [Link]([https://www.aliexpress.com/item/1972344997.html?spm=a2g0o.order_detail.0.0.2ce7f19cah4r4Z](https://www.aliexpress.com/item/1005002260991912.html?spm=a2g0o.productlist.0.0.c5ab172aAuV3mN&algo_pvid=8a517f2e-a977-4c2d-9563-f5bda37f3721&aem_p4p_detail=202208210832054759677103339260007197465&algo_exp_id=8a517f2e-a977-4c2d-9563-f5bda37f3721-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000019844952351%22%7D&pdp_npi=2%40dis%21ILS%2121.08%2114.75%2112.65%21%21%21%21%400b0a0ae216610959254018780e782f%2112000019844952351%21sea&curPageLogUid=AKortFL1IRxF&ad_pvid=202208210832054759677103339260007197465_1) "Link")
+- Measuring Probes [Link]([https://www.aliexpress.com/item/1972344997.html?spm=a2g0o.order_detail.0.0.2ce7f19cah4r4Z](https://www.aliexpress.com/item/1005002260991912.html?spm=a2g0o.productlist.0.0.c5ab172aAuV3mN&algo_pvid=8a517f2e-a977-4c2d-9563-f5bda37f3721&aem_p4p_detail=202208210832054759677103339260007197465&algo_exp_id=8a517f2e-a977-4c2d-9563-f5bda37f3721-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000019844952351%22%7D&pdp_npi=2%40dis%21ILS%2121.08%2114.75%2112.65%21%21%21%21%400b0a0ae216610959254018780e782f%2112000019844952351%21sea&curPageLogUid=AKortFL1IRxF&ad_pvid=202208210832054759677103339260007197465_1 "Link")
 - Enclosure
 
 ### Schematic
