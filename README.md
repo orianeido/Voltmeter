@@ -32,7 +32,6 @@ Hope you find it nice and useful, enjoy!
 
 
 ### Libraries
-It includes two libraries. Both are found in arduino library manager.
 
 - TM1637Display.h 1.2.0 [Link to library](https://github.com/avishorp/TM1637 "Link to library")
 - TM1651.h 1.0.1 [Link to library](https://github.com/freekode/TM1651 "Link to library")
