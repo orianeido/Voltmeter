@@ -16,7 +16,8 @@ Hope you find it nice and useful, enjoy!
 - DC Input [Link](https://www.aliexpress.com/item/32809424313.html?spm=a2g0o.order_detail.0.0.66f0f19cluXk6P "Link")
 - Voltage Sensor [Link](https://www.aliexpress.com/item/1972344997.html?spm=a2g0o.order_detail.0.0.2ce7f19cah4r4Z "Link")
 - 2 Buttons (ON/OFF and Select)
-- Measuring Probes [Link](https://www.aliexpress.com/item/1972344997.html?spm=a2g0o.order_detail.0.0.2ce7f19cah4r4Z "Link")
+- 1 Pin WEiPU Connector [Link](https://www.aliexpress.com/item/1005003838535514.html?spm=a2g0o.productlist.0.0.6c6f4ca3uyjZg7&algo_pvid=1ab9cd09-6763-4a72-8d25-caaff75111e9&aem_p4p_detail=2022082109355710614679779574080005240343&algo_exp_id=1ab9cd09-6763-4a72-8d25-caaff75111e9-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000027310325059%22%7D&pdp_npi=2%40dis%21ILS%2116.28%2112.22%21%21%217.39%21%21%402100bb4916610997574904867e284f%2112000027310325059%21sea&curPageLogUid=0YPdXY6NiKNk&ad_pvid=2022082109355710614679779574080005240343_1 "Link")
+- Measuring Probes [Link](https://www.aliexpress.com/item/1005002260991912.html?spm=a2g0o.productlist.0.0.71d5172abGf9GJ&algo_pvid=d536426a-171f-4489-a4e5-938e45bf3424&aem_p4p_detail=2022082109350111919225861032640024491374&algo_exp_id=d536426a-171f-4489-a4e5-938e45bf3424-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000019844952351%22%7D&pdp_npi=2%40dis%21ILS%2121.08%2114.75%2112.65%21%21%21%21%400b0a0ae216610997015494102e7830%2112000019844952351%21sea&curPageLogUid=rUsUxX2v6waY&ad_pvid=2022082109350111919225861032640024491374_1 "Link")
 - Enclosure
 
 ### Schematic
