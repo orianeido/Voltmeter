@@ -2,10 +2,10 @@
 Voltmeter using Arduino Nano
 
 
-Hardware
+###Hardware
 
 
-Schematic
+###Schematic
 
 
 
@@ -15,13 +15,11 @@ Schematic
 
 
 
-Software
+###Software
 
 
-Libraries
+###Libraries
+It includes two libraries. Both are found in arduino library manager.
 
-It includes two libraries. Both are found in arduino library manager. The first one is written by Author .
-
-Library name	Version	Author	Link
-TM1638plus.h	1.4.0	Gavin Lyons	URL Link to library
-DS3232RTC.h	1.2.6	JChristensen	URL Link to library
+- TM1637Display.h 1.2.0 [Link to library](https://github.com/avishorp/TM1637 "Link to library")
+- TM1651.h 1.0.1 [Link to library](https://github.com/freekode/TM1651 "Link to library")
