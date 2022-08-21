@@ -4,6 +4,8 @@ A fun summer project I made, all the design of the enclosure, the wiring of the 
 I made a video to demonstrate the unit running and added some photos and schematic from the design and the building process.  
 Hope you find it nice and useful, enjoy!  
 
+https://www.youtube.com/watch?v=emYsqfDJWus
+
 [![Voltmeter Video](https://user-images.githubusercontent.com/8725819/185801137-a06b8ec3-c2a9-43a9-b10f-198f0be3c720.jpg)](https://www.youtube.com/watch?v=emYsqfDJWus "Voltmeter")
 
 ![_DSC3554](https://user-images.githubusercontent.com/8725819/185789501-dc657011-edd3-43fe-a98c-13cb5040c4e4.JPG)
