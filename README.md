@@ -4,11 +4,9 @@ A fun summer project I made, all the design of the enclosure, the wiring of the 
 I made a video to demonstrate the unit running and added some photos and schematic from the design and the building process.  
 Hope you find it nice and useful, enjoy!  
 
-![_DSC3554](https://user-images.githubusercontent.com/8725819/185789501-dc657011-edd3-43fe-a98c-13cb5040c4e4.JPG)
-
-
 [![Voltmeter Video](https://user-images.githubusercontent.com/8725819/185801137-a06b8ec3-c2a9-43a9-b10f-198f0be3c720.jpg)](https://www.youtube.com/watch?v=emYsqfDJWus "Voltmeter")
 
+![_DSC3554](https://user-images.githubusercontent.com/8725819/185789501-dc657011-edd3-43fe-a98c-13cb5040c4e4.JPG)
 
 ### Hardware
 
@@ -22,10 +20,6 @@ Hope you find it nice and useful, enjoy!
 - Enclosure
 
 ### Schematic
-
-
-
-
 
 ![Voltemeter_bb](https://user-images.githubusercontent.com/8725819/177581220-f39f45c1-a79d-4c18-978d-5488b2d3ee23.png)
 
@@ -42,5 +36,11 @@ Hope you find it nice and useful, enjoy!
 - TM1651.h 1.0.1 [Link to library](https://github.com/freekode/TM1651 "Link to library")
 
 ### Photos
+
+![IMG_1121](https://user-images.githubusercontent.com/8725819/185801219-0e97f4f7-027e-4688-9b36-0508fee9ea29.jpg)
+
+![_DSC3580](https://user-images.githubusercontent.com/8725819/185801298-d7df02eb-8845-41c3-9378-20d72a323c91.jpg)
+
+![_DSC3580](https://user-images.githubusercontent.com/8725819/185801297-032ccb60-4bc2-4a80-9659-f8c764666fca.jpg)
 
 
