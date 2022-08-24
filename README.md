@@ -2,7 +2,7 @@
 Voltmeter using Arduino Nano controller, programed in C++.  
 A fun summer project I made, all the design of the enclosure, the wiring of the components and code writing was done by me.  
 I made a video to demonstrate the unit running and added some photos and schematic from the design and the building process.  
-Hope you find it nice and useful, enjoy!  
+Hope you will find it nice and useful, enjoy!  
 
 https://www.youtube.com/watch?v=emYsqfDJWus
 
